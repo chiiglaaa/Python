@@ -1,3 +1,5 @@
+#this is guess the number game but computer will choose the number and he will also try to found the number
+#by using binary search algorithm.
 import random
 import time
 time.sleep(0.5)
