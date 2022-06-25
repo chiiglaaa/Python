@@ -18,6 +18,7 @@ paper = "paper"
 scissors = "scissors"
 choises = ['rock', 'paper', 'scissors']
 count = 0
+#op_count. "op" means opponent
 op_count = 0
 time.sleep(0.5)
 
